@@ -1,6 +1,6 @@
 # IBM-Project-28868-1660117731
 <pre>
-<h1>Hazardous Area Monitoring for Industrial Plant powered by IoT</h1>
+<h2>Hazardous Area Monitoring for Industrial Plant powered by IoT</h2>
 <h7>Team Id       : PNT2022TMID28572;
 College Name  : Agni College of Technology, Thalambur, OMR, Chennai - 600 130;
 
